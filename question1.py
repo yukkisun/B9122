@@ -15,4 +15,5 @@ def EMI(rate, N, PV, FV):
 
 # test EMI function with given values
 EMI(0.05, 30, 10000, 2000)
+EMI(0.1, 300, 1000, 200)
 # also can use other inputs to test the EMI function: EMI(0.5,12.3,1000,20)
